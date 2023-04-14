@@ -1,4 +1,4 @@
-22092301433547888
+22097346107752895
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55369,6 +55369,27 @@ IoTVision_Logo_18x5
 0
 0
 0
+IVS_footprints
+JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal
+JST SH series connector, SM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+connector JST SH top entry
+0
+6
+5
+IVS_footprints
+JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal
+JST SH series connector, SM06B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+connector JST SH top entry
+0
+8
+7
+IVS_footprints
+JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal
+JST SH series connector, SM08B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+connector JST SH top entry
+0
+10
+9
 IVS_footprints
 JST_VH_B2P-VH-B_1x02_P3.96mm_Vertical
 JST VH PBT series connector, B2P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
