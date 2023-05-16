@@ -1,4 +1,4 @@
-22303495511485146
+22310231429951734
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55377,6 +55377,13 @@ connector JST SH top entry
 6
 5
 IVS_footprints
+JST_SH_SM05B-SRSS-TB_1x05-1MP_P1.00mm_Horizontal
+JST SH series connector, SM05B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+connector JST SH top entry
+0
+7
+6
+IVS_footprints
 JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal
 JST SH series connector, SM06B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
 connector JST SH top entry
@@ -56119,6 +56126,13 @@ SOIC14
 14
 14
 IVS_footprints
+SOP-8
+
+
+0
+8
+8
+IVS_footprints
 SOT23-3
 
 
@@ -56160,6 +56174,13 @@ SS-12F23G4
 0
 5
 4
+IVS_footprints
+SSOP-16
+
+
+0
+16
+16
 IVS_footprints
 ST
 
@@ -56370,6 +56391,13 @@ Texas VSON10 3x3mm
 0
 21
 11
+IVS_footprints
+TouchPad_12x12mm
+
+
+0
+1
+1
 IVS_footprints
 USB-C_SMD_1
 
